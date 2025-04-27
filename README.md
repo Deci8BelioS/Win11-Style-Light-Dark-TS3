@@ -38,4 +38,4 @@ Resources
 [1]: https://teamspeak.com
 [2]: docs/preview_dark.png "Win11 Style Dark Preview"
 [3]: docs/preview_light.png "Win11 Style Light Preview"
-[10]: https://teamspeak.com
+[10]: https://community.teamspeak.com/t/skin-release-win11-style-light-dark-ts3-for-win/59288
