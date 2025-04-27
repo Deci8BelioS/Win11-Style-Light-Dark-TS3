@@ -527,6 +527,7 @@ QTabBar::tab {
 	border-bottom-left-radius: 4px;
 	border-bottom-right-radius: 4px;
 	min-width: 10px;
+	max-height: 16px;
 }
 QTabBar::tab:hover {
 	background-color: #e1e1e1;
@@ -560,7 +561,7 @@ QTabBar::tab:!selected:top {
 }
 /* Botón de cierre en la pestaña */
 QTabBar::close-button {
-	/* image: url("styles:Win11 Style Light/gfx/close.png"); */
+	image: url(styles:Win11 Style Light/gfx/close-icon.png);
 	subcontrol-position: right;
 	/* subcontrol-origin: padding; */
 	/* border-radius: 2px; */
