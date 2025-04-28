@@ -1,5 +1,5 @@
 /*
- * TeamSpeak 3 Default Qt StyleSheet [Mod Por DeciBelioS: https://twitter.com/Deci8BelioS ]
+ * TeamSpeak 3 Default Qt StyleSheet
  *
  * Copyright (c) 2009-2020 TeamSpeak Systems GmbH
  *
@@ -15,8 +15,7 @@
 
 /* ============================================================================
     TeamSpeak 3 QSS Skin - Windows 11 Inspired Dark Theme
-    Revisado y corregido - Cambios mínimos aplicados para corregir errores
-    y mejorar la consistencia sin alterar significativamente el diseño original.
+    By DeciBelioS
    ============================================================================ */
 
 /* Widget de pestañas de servidor y widget de chat */
@@ -83,9 +82,6 @@ QTextEdit#InfoFrame, QTextEdit#ChatTab {
 /* Divisores (Splitters) generales */
 QSplitter {
 	background-color: transparent;
-}
-QSplitter::handle {
-	background-color: #323232;
 }
 QSplitter::handle:horizontal {
 	width: 1px;
